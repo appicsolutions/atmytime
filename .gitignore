@@ -1,0 +1,17 @@
+oauth.json.*
+build/
+database/
+time-tracking.iws
+public/coverage
+public/unit-test-results.xml
+public/node_modules
+.gradle
+public/e2e-myapp.xml
+npm-debug.log
+.classpath
+.project
+.settings/
+bin/
+coverage-report/
+
+
