@@ -5,12 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nsv.springioref</groupId>
-    <artifactId>rest-service-spring-boot</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>atmytime</artifactId>
+    <version>1.0</version>
     <packaging>war</packaging>
-
-
-
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -61,7 +58,7 @@
 
 
     <build>
-        <finalName>resthelloapp</finalName>
+        <finalName>atmytime</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -82,6 +79,4 @@
             <url>https://repo.spring.io/libs-release</url>
         </pluginRepository>
     </pluginRepositories>
-
-
 </project>
